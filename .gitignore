@@ -1,0 +1,11 @@
+
+# Tesseract
+tesseract/
+
+# Virtual environment
+venv/
+
+# Image files
+*.jpg
+*.jpeg
+*.png
